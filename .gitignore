@@ -1,0 +1,27 @@
+# .gitignore - Lab 03
+
+# Fordított binárisok
+feladat_01/fork_test
+feladat_02/zombie_demo
+feladat_03/shared_mem
+feladat_04/shared_mem_sem
+hazi/ping_pong
+
+# Object fájlok
+*.o
+*.out
+*.a
+
+# Editor fájlok
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Core dumps
+core
+core.*
