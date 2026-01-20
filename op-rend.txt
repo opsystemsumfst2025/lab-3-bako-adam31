@@ -1,0 +1,24 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2865
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Labor 3\
+\
+1. feladat\
+	1. ha a printfet a fork ele rakjuk csak egyszer jelenik meg\
+	2. ha utanna rakjuk 2x jelenik meg\
+	3. a terminal utemezoje miatt\
+2. feladat\
+1. a gyerek folyamatnak nem lesznek szulei, amikor befejezodik az init fogja meghivni a wait fuggvenyt\
+2. hogy elkeruljuk a zombie procest es a rendszerunk osszeomalasat\
+3. feladat\
+1. mert a counter muvelet kozben felulirjak egymast, es elvesznek a szamolasok\
+2. egy szemafor vagy mutex\
+3. 10el helyes lenne az eredmeny mert kicsi a szam es nem lesz switch, 1 millioval meg nagyobb lenne a hiba\
+4. feladat\
+1. deadlock alakulna ki\
+2. mert a fork utan a folyamatnak mas a memoriaja\
+3. sokkal lassabb lett}
